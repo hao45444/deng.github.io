@@ -1,8 +1,8 @@
 ---
-永久链接：/https：//hao45444.github.io/deng.github.io/
-标题：“ https://hao45444.github.io/deng.github.io/”
+永久链接：/无/
+标题：“ 站务”
 furety_profile：True
-redirect_from：：：报告
+redirect_from：::报告
   - /关于 /
   - /about.html
 ---
