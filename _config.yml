@@ -1,14 +1,14 @@
 ＃欢迎来到杰基尔！
 ＃
 ＃此配置文件用于影响您整个站点的设置，值
-＃您期望您设置一次，并且在此之后很少需要编辑。，并且在此之后很少需要编辑。
+＃您期望您设置一次，并且在此之后很少需要编辑。，并且在此之后很少需要编辑。，并且在此之后很少需要编辑。
 ＃出于技术原因，此文件使用时 *未 *自动重新加载
-＃“ jekyll服务-l -h localhost”，。如果更改此文件，请重新启动，请重新启动
+＃“ jekyll服务 -l -h localhost”，。如果更改此文件，请重新启动，请重新启动
 ＃服务器进程。
 
 ＃基本站点设置
 语言环境：“ en-us”
-site_themesite_theme：“默认”：“默认”：：：：
+site_themesite_theme：“默认”：“默认”：：：：：：：：：：：
 标题：“苏维埃” ＃标题：“苏维埃” ＃标题
 title_separatortle_separator：“  - ”：“  - ”
 名称姓名：＆名称“苏维埃”：＆名称“苏维埃”
@@ -19,10 +19,10 @@ baseurl：“” ＃您的网站的子路口，例如，“/博客”
 
 ＃站点作者-以下控制在侧栏上显示的作者内容的一部分。
 ＃如果字段为空白，则不会出现链接，否则将显示。，否则将显示。，否则将显示。，否则将显示。
-＃其他自定义可以通过编辑 /_ Includes /author-profile.html完成
+＃其他自定义可以通过编辑 /_包括 /author-profile.html完成
 作者：
   ＃传记信息
-  阿凡达：“https://github.com/user-attachments/assets/03248C0A-4F01-4369-9144-F42790980485”
+  ：“
   名称：“ Manbaot”
   代词：“他”
   简历：“个人介绍”
@@ -37,30 +37,30 @@ baseurl：“” ＃您的网站的子路口，例如，“/博客”
   ImpactStory：＃url
   orcid：＃“ http：//orcid.org/yourorcidurl”
   语义：＃url
-  pubmed  PubMed：＃“ https：//www.ncbi.nlm.nih.gov/pubmed/?term=john+Snow”：＃“ https：//www.ncbi.nlm.nih.gov/pubmed/?term=john+Snow”
-  ResearchGate ResearchGate：＃URL ：＃URL
+  PubMed PubMed：＃“ https://www.ncbi.nlm.nih.gov/pubmed/?term=john+Snow”：＃“ https://wwwww.ncbi.ncbi.ncbi.nlm.nlm.nih.gov /PubMed/PubMed/PubMed/？约翰+雪””””
+  ResearchGate ResearchGate：＃url：＃url
   scopus scopus：＃url：＃url
 
   ＃存储库和软件开发
-  bitbucket         ：＃用户名 - 在网站上使用用户名更新
-  codepen           ：＃用户名
-  运输         ：＃用户名
-  github            ：“ hao45444” #github用户名
-  kaggle            ：＃用户名  
-  stackoverflow     ：＃用户号或用户编号和名称（即，使用“ 1”或“ 1/jeff-atwood”）    
+  Bitbucket：＃用户名 -在网站上使用用户名更新-在网站上使用用户名更新
+  Codepen：＃用户名
+  运输：＃用户名
+  github：“ hao45444” #github用户名
+  Kaggle：＃用户名  
+  stackoverflow：＃用户号或用户编号和名称（即，使用“ 1”或“ 1/jeff-atwood”）    
 
   ＃社交媒体
-  蓝调          ：＃“ bsky.app”＃用您替换为bluesky用户名
-: # Username
-  flickr  flickr：＃用户名: # Username
-  foursquare  foursquare：＃用户名: # Username
-  goodreads  Goodreads：＃用户名: # Username
-  google_plus  Google_plus：＃用户名: # Username
-  keybase  钥匙库：＃用户名: # Username
-  instagram  Instagram：＃用户名: # Username
-  lastfm  LastFM：＃用户名: # Username
-  linkedin  LinkedIn：＃用户名: # Username
-  mastodon  mastodon：＃url：＃url
+  蓝调：＃“ bsky.app” ＃用您替换为Bluesky用户名
+：＃用户名
+  flickr flickr：＃用户名：＃用户名
+  foursquare foursquare：＃用户名：＃用户名
+  GoodReads Goodreads：＃用户名：＃用户名
+  Google_plus Google_plus：＃用户名：＃用户名：＃用户名：＃用户名
+  键基础：＃用户名：＃用户名
+  Instagram Instagram：＃用户名：＃用户名
+  LastFM LastFM：＃用户名：＃用户名
+  LinkedIn LinkedIn：＃用户名：＃用户名
+  mastodon mastodon：＃url：＃url
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
