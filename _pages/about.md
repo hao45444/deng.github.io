@@ -1,11 +1,11 @@
 ---
-永久链接：/https://hao45444.github.io/deng.github.io/
+永久链接：/https：//hao45444.github.io/deng.github.io/
 标题：“ https://hao45444.github.io/deng.github.io/”
 furety_profile：True
-redirect_from：：：：：：：：：：：：：：：：：：：：：：：：：：
+redirect_from：：：报告
   - /关于 /
   - /about.html
 ---
 
-真nb？？？
+真nb ？？？
 
