@@ -1,66 +1,66 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
+＃欢迎来到杰基尔！
+＃
+＃此配置文件用于影响您整个站点的设置，值
+＃您期望您设置一次，并且在此之后很少需要编辑。，并且在此之后很少需要编辑。
+＃出于技术原因，此文件使用时 *未 *自动重新加载
+＃“ jekyll服务-l -h localhost”，。如果更改此文件，请重新启动，请重新启动
+＃服务器进程。
 
-# Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default"
-title                    : "苏维埃"#标题
-title_separator          : "-"
-name                     : &name "苏维埃"
-description              : &description "个人介绍"
-url                      : https://hao45444.github.io/deng.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://hao45444.github.io/deng.github.io/"
+＃基本站点设置
+语言环境：“ en-us”
+site_themesite_theme：“默认”：“默认”：：：：
+标题：“苏维埃” ＃标题：“苏维埃” ＃标题
+title_separatortle_separator：“  - ”：“  - ”
+名称姓名：＆名称“苏维埃”：＆名称“苏维埃”
+描述描述：＆描述“个人介绍”：＆描述“个人介绍”
+url：https：//hao45444444.github.io/deng.github.io/＃您的网站的基本主机名和协议.github.io ]。
+baseurl：“” ＃您的网站的子路口，例如，“/博客”
+存储库：“ https://hao45444.github.io/deng.github.io/”
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
-author:
-  # Biographic information
-  avatar           : ""
-  name             : "manbaot"
-  pronouns         : "he"
-  bio              : "个人介绍"
-  location         : "住址"
-  employer         : "毕业于XXX"
-  uri              : # URL
-  email            : "dsj4088@foxmail.com" 
+＃站点作者-以下控制在侧栏上显示的作者内容的一部分。
+＃如果字段为空白，则不会出现链接，否则将显示。，否则将显示。，否则将显示。，否则将显示。
+＃其他自定义可以通过编辑 /_ Includes /author-profile.html完成
+作者：
+  ＃传记信息
+  阿凡达：“https://github.com/user-attachments/assets/03248C0A-4F01-4369-9144-F42790980485”
+  名称：“ Manbaot”
+  代词：“他”
+  简历：“个人介绍”
+  位置：“住址”
+  雇主：“毕业于xxx”
+  uri：＃url
+  电子邮件：“ dsj4088@foxmail.com”
 
-  # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  ＃学术网站
+  arxiv：＃url-更新到您个人资料的正确链接
+  googlescholar：＃“ https://scholar.google.com/citations ？用户 = ps_cx0aaaaaaj”
+  ImpactStory：＃url
+  orcid：＃“ http：//orcid.org/yourorcidurl”
+  语义：＃url
+  pubmed  PubMed：＃“ https：//www.ncbi.nlm.nih.gov/pubmed/?term=john+Snow”：＃“ https：//www.ncbi.nlm.nih.gov/pubmed/?term=john+Snow”
+  ResearchGate ResearchGate：＃URL ：＃URL
+  scopus scopus：＃url：＃url
 
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "hao45444"#Github用户名
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  ＃存储库和软件开发
+  bitbucket         ：＃用户名 - 在网站上使用用户名更新
+  codepen           ：＃用户名
+  运输         ：＃用户名
+  github            ：“ hao45444” #github用户名
+  kaggle            ：＃用户名  
+  stackoverflow     ：＃用户号或用户编号和名称（即，使用“ 1”或“ 1/jeff-atwood”）    
 
-  # Social media
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
+  ＃社交媒体
+  蓝调          ：＃“ bsky.app”＃用您替换为bluesky用户名
+: # Username
+  flickr  flickr：＃用户名: # Username
+  foursquare  foursquare：＃用户名: # Username
+  goodreads  Goodreads：＃用户名: # Username
+  google_plus  Google_plus：＃用户名: # Username
+  keybase  钥匙库：＃用户名: # Username
+  instagram  Instagram：＃用户名: # Username
+  lastfm  LastFM：＃用户名: # Username
+  linkedin  LinkedIn：＃用户名: # Username
+  mastodon  mastodon：＃url：＃url
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
