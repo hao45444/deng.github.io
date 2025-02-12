@@ -1,8 +1,8 @@
 ---
 永久链接： /
-标题：“学术页面是一个现成的github页面模板，用于学术个人网站”
+标题：“https://hao45444.github.io/deng.github.io/”
 furety_profile：True
-redirect_from：：：：
+redirect_from：：：：：：
   - /关于 /
   - /about.html
 ---
