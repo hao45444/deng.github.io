@@ -1,11 +1,8 @@
 ---
-永久链接：/无/
-标题：“ 站务”
-furety_profile：True
-redirect_from：::报告
-  - /关于 /
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
   - /about.html
 ---
-
-真nb ？？？
-
